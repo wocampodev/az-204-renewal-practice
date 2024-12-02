@@ -7,3 +7,7 @@
 - Manage secrets with Azure Key Vault
 
     ![key-vault](./assets/key-vault.png)
+
+- Use external configuration with Azure App Configuration
+
+    ![app-configuration](./assets/app-configuration.png)
